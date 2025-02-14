@@ -11489,7 +11489,7 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 140.97) (xy 307.34 140.97)
+			(xy 293.37 140.97) (xy 318.77 140.97)
 		)
 		(stroke
 			(width 0)
@@ -12189,7 +12189,7 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 138.43) (xy 307.34 138.43)
+			(xy 297.18 138.43) (xy 318.77 138.43)
 		)
 		(stroke
 			(width 0)
@@ -12239,7 +12239,7 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 135.89) (xy 307.34 135.89)
+			(xy 299.72 135.89) (xy 318.77 135.89)
 		)
 		(stroke
 			(width 0)
@@ -12339,7 +12339,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 134.62) (xy 307.34 134.62)
+			(xy 295.91 134.62) (xy 318.77 134.62)
 		)
 		(stroke
 			(width 0)
@@ -13089,7 +13089,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 134.62) (xy 307.34 133.35)
+			(xy 318.77 134.62) (xy 318.77 133.35)
 		)
 		(stroke
 			(width 0)
@@ -25624,7 +25624,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 312.42 135.89 0)
+		(at 323.85 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25633,7 +25633,7 @@
 		(fields_autoplaced yes)
 		(uuid "cd58db8e-1911-498c-bf7e-027ae227efce")
 		(property "Reference" "J28"
-			(at 314.96 135.8899 0)
+			(at 326.39 135.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25642,7 +25642,7 @@
 			)
 		)
 		(property "Value" "TMC2209_2"
-			(at 314.96 138.4299 0)
+			(at 326.39 138.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25651,7 +25651,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
-			(at 312.42 135.89 0)
+			(at 323.85 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25660,7 +25660,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 312.42 135.89 0)
+			(at 323.85 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25669,7 +25669,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 312.42 135.89 0)
+			(at 323.85 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
