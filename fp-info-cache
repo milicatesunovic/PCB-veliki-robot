@@ -1,4 +1,4 @@
-24198008717673306
+24199748894404936
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97978,6 +97978,13 @@ Varistor VF
 0
 2
 2
+ftnlogo
+ftnlogonovi
+
+
+0
+0
+0
 l293ddfootprint
 SOIC127P1032X265-20N
 
@@ -97999,10 +98006,10 @@ MODULE_NUCLEO-L432KC
 0
 30
 30
-nucleof401re
-ST_NUCLEO-F401RE
+notebotlogo
+notebotlogo
 
 
 0
-76
-76
+0
+0
