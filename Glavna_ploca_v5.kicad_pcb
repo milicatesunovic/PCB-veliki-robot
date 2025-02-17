@@ -27456,6 +27456,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Autori: Luka Ostojić\n       Milica Tešunović\n       Aleksandar Rakić\n"
+		(at 309 114.5 90)
+		(layer "F.SilkS")
+		(uuid "2795c7e0-4e40-4b8a-9404-fd9bb6f383fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "5V"
 		(at 133.5 126.5 90)
 		(layer "F.SilkS")
